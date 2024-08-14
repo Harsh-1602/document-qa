@@ -1,2 +1,6 @@
+open-clip-torch
 streamlit
-openai
+chromadb==0.5.0
+pillow
+numpy
+tqdm
